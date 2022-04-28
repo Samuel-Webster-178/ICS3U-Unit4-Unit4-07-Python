@@ -5,4 +5,6 @@
 # This module contains constants
 
 
-TAU = 6.28
+MIN = 1000
+MAX = 2000
+NUMBERS_PER_LINE = 5
